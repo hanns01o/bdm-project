@@ -1,4 +1,4 @@
-# # Core Cycle Collective Fitness Studio SQL Model
+# Core Cycle Collective Fitness Studio SQL Model
 
 ## Project Overview
 This is my course project for my Business Data Management module in Singapore Management University. 
