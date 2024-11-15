@@ -17,5 +17,5 @@ A database solution for a fictional fitness studio, developed as a course projec
 * SQL: database creation, data modelling, query creation
   
 ## Project Outputs
-*
 
+![2024-11-03 14 45 32](https://github.com/user-attachments/assets/df3af0d3-de09-4cca-9565-5e93b3456f4c)
