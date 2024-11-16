@@ -23,3 +23,4 @@ A database solution for a fictional fitness studio, developed as a course projec
 * [Table creation from EER model](https://github.com/hanns01o/bdm-project/blob/main/create%20tables.sql)
 * [Inputting AI Generated Entries into Tables](https://github.com/hanns01o/bdm-project/blob/main/input%20data.sql)
 * [Queries](https://github.com/hanns01o/bdm-project/blob/main/queries.sql)
+* [Query output](https://github.com/hanns01o/bdm-project/blob/main/CoreCycle%20Phase%202%20-query%20output.pdf) 
